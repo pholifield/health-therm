@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.megster.example.hrm" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>HeartRate</name>
+<widget id="com.exph.app3" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Health-Therm</name>
     <description>
-        BLE Heart Rate Monitor Demo
+        An example from www.lynda.com Creative-Cloud-tutorials
     </description>
-    <author href="https://github.com/don">
-        Don Coleman
+    <author email="support@phonegap.com" href="http://phonegap.com">
+        PhoneGap Team
     </author>
 	
 	<gap:platform name="android" />
@@ -15,3 +15,4 @@
     <content src="index.html" />
     <access origin="*" />
 </widget>
+
