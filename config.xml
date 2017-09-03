@@ -7,6 +7,9 @@
     <author href="https://github.com/don">
         Don Coleman
     </author>
+	<gap:platform name="android" />
+	<gap:plugin name="cordova-plugin-ble-central" source="npm" />
+	<preference name="phonegap-version" value="cli-6.1.0" />
     <content src="index.html" />
     <access origin="*" />
 </widget>
